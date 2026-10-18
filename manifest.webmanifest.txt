@@ -1,0 +1,19 @@
+{
+  "name": "Tehai Sutra",
+  "short_name": "Tehai Sutra",
+  "description": "The magic of music and maths",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#140f0b",
+  "theme_color": "#140f0b",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
